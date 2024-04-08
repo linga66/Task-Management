@@ -7,7 +7,7 @@ Designed a ToDo Website, where we can add the list of works we need to do and up
 React, CSS, MongoDB, Node.js
 
 # To run the project
-Clone the project
+Clone the project<br/>
 To run the front-end application
 * ```cd client``` 
 * ```npm install``` 
