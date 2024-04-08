@@ -7,14 +7,15 @@ Designed a ToDo Website, where we can add the list of works we need to do and up
 React, CSS, MongoDB, Node.js
 
 # To run the project
-Clone the project<br/>
-To run the front-end application
+1. Clone the project<br/>
+2. To run the front-end application
 * ```cd client``` 
 * ```npm install``` 
 * ```npm start```</br>
 This will open the game in development mode </br>
 http://localhost:3000 will give you the UI of the Website</br>
-To run the Backend application
+
+3. To run the Backend application
 Change the URL of the MongoDB 
 * ```cd server``` 
 * ```npm install```
